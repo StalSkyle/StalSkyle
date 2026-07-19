@@ -56,11 +56,4 @@ Welcome to my GitHub profile! I am a passionate machine learning engineer focuse
 * **Result:** Achieved a top-tier validation accuracy of **0.97340** on the Kaggle competition leaderboard. Proved that full layer unfreezing combined with tailored spatial/color augmentations delivers superior generalization for fine-grained classification tasks compared to frozen features or model ensembles.
 
 ---
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=StalSkyle&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StalSkyle&layout=compact&theme=radical" alt="Top Langs" width="300"/>
-</p>
-
 *Feel free to explore my repositories, open an issue, or reach out if you'd like to collaborate on exciting ML projects!*
